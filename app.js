@@ -9,6 +9,7 @@ class Particle {
                 this.color = "dark" + color;
             }
         }
+
         this.x = x;
         this.y = y;
 
